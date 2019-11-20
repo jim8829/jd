@@ -43,7 +43,7 @@ input{
 	margin-top: 10px;
 }
 .clearfix::before,
-.clearfic::after{
+.clearfix::after{
 	content: '';
 	display: block;
 	height: 0;
